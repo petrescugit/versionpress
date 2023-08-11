@@ -9,7 +9,7 @@
     "debug-script": "node -r ts-node/register --inspect-brk"
   },
   "dependencies": {
-    "apollo-boost": "^0.3.1",
+    "apollo-boost": "^0.4.9",
     "archiver": "^3.0.0",
     "arg": "^4.1.0",
     "chalk": "^2.4.2",
