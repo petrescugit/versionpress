@@ -21,8 +21,8 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "core-js": "^2.5.7",
-    "diff": "^3.5.0",
-    "lodash": "^4.17.13",
+    "diff": "^4.0.4",
+    "lodash": "^4.17.23",
     "mobx": "^4.1.1",
     "mobx-react": "^5.0.0",
     "moment": "^2.22.2",
